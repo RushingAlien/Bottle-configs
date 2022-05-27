@@ -1,0 +1,95 @@
+Arch: win64
+Creation_Date: '2022-05-26 13:27:48.245193'
+Custom_Path: false
+DLL_Overrides: {}
+DXVK: dxvk-1.10.1
+Environment: Gaming
+Environment_Variables: {}
+External_Programs:
+    HedgeModManager.exe:
+        executable: HedgeModManager.exe
+        name: HedgeModManager
+        path: /mnt/oldArch/home/rom/.local/share/Steam/steamapps/common/Sonic Generations/HedgeModManager.exe
+    hedgemodmanager 8dc94.exe:
+        arguments: ''
+        executable: hedgemodmanager 8dc94.exe
+        folder: /mnt/oldArch/home/rom/.local/share/Steam/steamapps/common/Sonic Generations
+        icon: ''
+        id: hedgemodmanager 8dc94.exe
+        name: Sonic Generations Mod Manager
+        path: /mnt/oldArch/home/rom/.local/share/Steam/steamapps/common/Sonic Generations/hedgemodmanager
+            8dc94.exe
+        removed: null
+        script: null
+Installed_Dependencies:
+- d3dx9
+- msls31
+- arial32
+- times32
+- courie32
+- d3dcompiler_43
+- d3dcompiler_47
+- dotnet40
+- dotnet48
+- gecko
+- vcredist2019
+- gdiplus
+LatencyFleX: latencyflex-v0.1.0
+Latest_Executables: []
+NVAPI: dxvk-nvapi-v0.5.2
+Name: Hedge Mod
+Parameters:
+    custom_dpi: 96
+    discrete_gpu: true
+    dxvk: true
+    dxvk_hud: false
+    dxvk_nvapi: false
+    fixme_logs: false
+    fsr: false
+    fsr_level: 5
+    fullscreen_capture: false
+    gamemode: false
+    gamescope: false
+    gamescope_borderless: false
+    gamescope_fps: 0
+    gamescope_fps_no_focus: 0
+    gamescope_fullscreen: true
+    gamescope_game_height: 0
+    gamescope_game_width: 0
+    gamescope_scaling: false
+    gamescope_window_height: 0
+    gamescope_window_width: 0
+    latencyflex: false
+    mangohud: false
+    obsvkc: false
+    pulseaudio_latency: true
+    renderer: gl
+    sync: futex2
+    take_focus: false
+    use_runtime: false
+    use_steam_runtime: false
+    virtual_desktop: false
+    virtual_desktop_res: 1280x720
+    vkbasalt: false
+    vkd3d: false
+Path: Ni-No-Kuni
+Runner: caffe-7.7
+State: 0
+Uninstallers:
+    arial32: false
+    courie32: false
+    d3dcompiler_43: false
+    d3dcompiler_47: false
+    d3dx9: false
+    dotnet40: Microsoft .NET Framework 4 Extended
+    dotnet48: true
+    gdiplus: false
+    gecko: true
+    msls31: false
+    times32: false
+    vcredist2019: true
+Update_Date: '2022-05-27 19:24:15.501357'
+VKD3D: vkd3d-proton-2.6
+Versioning: false
+Windows: win10
+WorkingDir: ''
