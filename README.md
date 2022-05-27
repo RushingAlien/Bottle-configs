@@ -1,1 +1,1 @@
-![ywea](/hedgemodmangaer on linux guide.png)
+![ywea](href=/hedgemodmangaer on linux guide.png)
