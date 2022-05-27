@@ -3,24 +3,9 @@ Creation_Date: '2022-05-26 13:27:48.245193'
 Custom_Path: false
 DLL_Overrides: {}
 DXVK: dxvk-1.10.1
-Environment: Gaming
+Environment: Custom
 Environment_Variables: {}
-External_Programs:
-    HedgeModManager.exe:
-        executable: HedgeModManager.exe
-        name: HedgeModManager
-        path: /mnt/oldArch/home/rom/.local/share/Steam/steamapps/common/Sonic Generations/HedgeModManager.exe
-    hedgemodmanager 8dc94.exe:
-        arguments: ''
-        executable: hedgemodmanager 8dc94.exe
-        folder: /mnt/oldArch/home/rom/.local/share/Steam/steamapps/common/Sonic Generations
-        icon: ''
-        id: hedgemodmanager 8dc94.exe
-        name: Sonic Generations Mod Manager
-        path: /mnt/oldArch/home/rom/.local/share/Steam/steamapps/common/Sonic Generations/hedgemodmanager
-            8dc94.exe
-        removed: null
-        script: null
+External_Programs: {}
 Installed_Dependencies:
 - d3dx9
 - msls31
@@ -72,7 +57,7 @@ Parameters:
     virtual_desktop_res: 1280x720
     vkbasalt: false
     vkd3d: false
-Path: Ni-No-Kuni
+Path: HedgeMod
 Runner: caffe-7.7
 State: 0
 Uninstallers:
